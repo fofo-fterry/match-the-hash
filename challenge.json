@@ -1,0 +1,6 @@
+{
+  "algorithm": "sha256",
+  "format": "sha256(salt + secret), UTF-8, lowercase hex",
+  "salt": "stanford-2026-yo:",
+  "hash": "e6385f489beff26b65e2b2d2df50e5d8201ceccc38f7ec9fa664bf50513ac597"
+}
